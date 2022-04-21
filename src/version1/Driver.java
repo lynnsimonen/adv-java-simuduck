@@ -2,6 +2,8 @@ package version1;
 
 public class Driver {
 
+    //Downloaded and ready to go
+
     public static final String BLANK_LINE = "\n";
 
     public static void main(String[] args) {
@@ -17,6 +19,7 @@ public class Driver {
             ducks[i].display();
             System.out.println(ducks[i].toString() + Driver.BLANK_LINE);
         }
+        system.out.println("downloaded and ready");
 
     }
 
